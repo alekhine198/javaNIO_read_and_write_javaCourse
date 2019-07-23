@@ -1,1 +1,1 @@
-Tim Buchalka's Java Course in Udemy.com
+Tim Buchalka's Java Course in Udemy.com. Writing and reading a binary file using Java nio package.
